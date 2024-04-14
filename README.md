@@ -2,8 +2,7 @@
 # Welcome to my README, let's get to know a little more about me
 ### README - Fernando A. M. Santos
 
-🌱 I’m currently learning ...systems analysis and development through UNIFATECIE 🥇 and 
-[Training] Full Stack Javascript by https://cursos.onebitcode.com/ 
+🌱 I’m currently learning ...systems analysis and development through UNIFATECIE 🥇
 
 🤔 I’m looking for help with ...get a job or internship in the programming area 😉 
 
